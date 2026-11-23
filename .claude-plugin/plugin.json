@@ -1,6 +1,6 @@
 {
   "name": "gtm-setup",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Build and audit Google Tag Manager web containers: GA4 and Google Ads destinations, consent mode, form and booking tracking, attribution, and proof that hits leave the browser.",
   "author": { "name": "In Motion Marketing", "url": "https://inmotionmktg.com" },
   "homepage": "https://github.com/In-Motion-Marketing/GTM-Setup",

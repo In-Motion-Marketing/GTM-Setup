@@ -1,0 +1,12 @@
+{
+  "name": "gtm-setup",
+  "description": "Marketplace that publishes the gtm-setup plugin",
+  "owner": { "name": "In Motion Marketing", "url": "https://inmotionmktg.com" },
+  "plugins": [
+    {
+      "name": "gtm-setup",
+      "source": "./",
+      "description": "Build and audit Google Tag Manager web containers: GA4 and Google Ads destinations, consent mode, form and booking tracking, attribution, and proof that hits leave the browser."
+    }
+  ]
+}
